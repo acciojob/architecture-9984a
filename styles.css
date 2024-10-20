@@ -1,1 +1,16 @@
+.body{
+	width:110px;
+}
+.imageContainer{
+	width:50%;
+}
+.FirstColumn{
+	width:200;
+}
+.SecondColumn{
+	width:600;
+}
+.ThirdColumn{
+	width:200;
+}
 /*  your css code here. If applicable */
